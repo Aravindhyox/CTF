@@ -1,8 +1,13 @@
 # Over-the-wire
 i play CTF
 
-#Bandit <br>
-Log in with passwd given by website and it has "readme" txt file, i cat the file 1'st flog 
+#Bandit <br> <br>
+
+Login ssh with credancials given by www.ovwrthewire.org 
+<br>
+i see the read me file and i use cat cmd to read the file <cmd>cat readme<cmd>
+<br>
+
 
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
