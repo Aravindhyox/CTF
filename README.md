@@ -5,11 +5,11 @@ i play CTF
 
 Login ssh with credancials given by www.ovwrthewire.org 
 <br>
-i see the read me file and i use cat cmd to read the file <cmd>cat readme<cmd>
+i see the read me file and i use cat cmd to read the file "cat readme" i find 1'st flog : { NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL }
 <br>
 
 
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
 
 Log in with flag1 thare's a file called "-" i thing that a dir but it's a txt file after goolgle some times i find this "cat ./-" and i find 2'nd flag
 
