@@ -1,5 +1,5 @@
 # CTF - Capture the Flag
-I play CTF's
+I play CTF
 
 ## 1. Over the wire 
 <ul>
