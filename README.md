@@ -1,6 +1,6 @@
 # CTF - Capture the Flag
-i play CTF 
+i play CTF's
 
-1. Over the wire Over-the-wire/Bandit.md
+1. Over the wire > 
 
 
