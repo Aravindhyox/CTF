@@ -1,8 +1,6 @@
-# Over-the-wire
-i play CTF
+# CTF - Capture the Flag
+i play CTF 
 
-#Bandit <br> <br>
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL  
-<br>
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-<br>
+1. Over the wire 
+
+
