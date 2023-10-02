@@ -1,5 +1,5 @@
 # CTF - Capture the Flag
-i play CTF's
+I play CTF's
 
 <h4>1. Over the wire </h4> 
 <ul>
